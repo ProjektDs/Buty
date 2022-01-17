@@ -1,0 +1,13 @@
+Buty:
+Nike 
+kolor czerwony,czarny,bialy 
+cena 100 zl
+Adidas 
+kolor czerwony,zielony czarny 
+cena 50 zl
+Guess 
+kolor bezowy,czarny,niebieski 
+cena 79 zl
+
+
+[0] = {opis=" Buty: Nike kolor czerwony Rozmiary 40 cena 100 zl" kolor="" numberButa=0 }
