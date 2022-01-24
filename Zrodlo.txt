@@ -1,0 +1,13 @@
+Buty:
+Nike 
+kolor czerwony
+Rozmiary 43 stopa
+------------------------------------------------
+Adidas 
+kolor czarny 
+Rozmiary 45 stopa
+------------------------------------------------
+Guess 
+kolor niebieski 
+Rozmiary 40 stopa
+-------------------------------------------------
