@@ -1,13 +1,36 @@
-Buty:
 Nike 
 kolor czerwony
-Rozmiary 43 stopa
+Rozmiary 43,44 
 ------------------------------------------------
 Adidas 
 kolor czarny 
-Rozmiary 45 stopa
-------------------------------------------------
+Rozmiary 45 
+-------------------------------------------------
 Guess 
 kolor niebieski 
-Rozmiary 40 stopa
+Rozmiary 40 
+-------------------------------------------------
+Basic
+kolor niebieski
+Rozmiary 42
+-------------------------------------------------
+Champion
+kolor jasny
+Rozmiary 41,42
+-------------------------------------------------
+Reebok
+kolor niebieski 
+Rozmiary 43
+-------------------------------------------------
+Converse
+kolor bialy
+Rozmiary 40,41,42
+-------------------------------------------------
+Crocs
+kolor pomaranczowy
+Rozmiary 41,42,43
+-------------------------------------------------
+Timberland
+kolor czerwony
+Rozmiary 43
 -------------------------------------------------
