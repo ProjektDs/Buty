@@ -1,0 +1,80 @@
+Nike 
+kolor czerwony
+Rozmiary 43 stopa
+------------------------------------------------
+Adidas 
+kolor czarny
+Rozmiary 39 stopa
+------------------------------------------------
+Guess 
+kolor niebieski
+Rozmiary 40 stopa
+-------------------------------------------------
+Reebok
+kolor zolty
+Rozmiary 46 stopa
+-------------------------------------------------
+Adidas 
+kolor czerwony
+Rozmiary 40 stopa
+------------------------------------------------
+Adidas 
+kolor zolty
+Rozmiary 41 stopa
+------------------------------------------------
+Adidas 
+kolor niebieski
+Rozmiary 42 stopa
+------------------------------------------------
+Adidas 
+kolor bialy
+Rozmiary 44 stopa
+------------------------------------------------
+Nike
+kolor brazowy
+Rozmiary 39 stopa
+------------------------------------------------
+Nike 
+kolor fioletowy
+Rozmiary 39 stopa
+------------------------------------------------
+Nike 
+kolor zielony
+Rozmiary 41 stopa
+------------------------------------------------
+Nike
+kolor czerwony
+Rozmiary 41 stopa
+------------------------------------------------
+Guess 
+kolor czarny
+Rozmiary 39 stopa
+------------------------------------------------
+Guess 
+kolor fioleotwy
+Rozmiary 40 stopa
+------------------------------------------------
+Guess 
+kolor zielony
+Rozmiary 40 stopa
+------------------------------------------------
+Guess 
+kolor zielony
+Rozmiary 42 stopa
+------------------------------------------------
+Reebok
+kolor zolty
+Rozmiary 41 stopa
+-------------------------------------------------
+Reebok
+kolor brazowy
+Rozmiary 43 stopa
+-------------------------------------------------
+Reebok
+kolor bialy
+Rozmiary 40 stopa
+-------------------------------------------------
+Reebok
+kolor pomaranczowy
+Rozmiary 42 stopa
+-------------------------------------------------
